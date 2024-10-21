@@ -24,7 +24,7 @@ algorithms for the processing of X-ray imaging and then a GUI software.
 
 * 12/2020-12/2021: Postdoctoral researcher at University of Clinic Wuerzburg, Germany
   * Duties included: This work is a
-collaborative project between University ClinicWuerzburg, Germany and KU Leuven, Belgium.
+collaborative project between University Clinic Wuerzburg, Germany and KU Leuven, Belgium.
 The aim of this work is to estimate the motion of the myocardial through 3D echocardiography.
 
 * 10/2017-11/2020: Doctoral researcher at University of Lorraine
