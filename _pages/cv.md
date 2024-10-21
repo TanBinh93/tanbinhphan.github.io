@@ -43,5 +43,6 @@ Publications
   
 Review
 ======
-* Reviewers for PLOS ONE journal on the topic of 3D reconstruction techniques. https://journals.plos.org/plosone/
+* Reviewers for PLOS ONE journal on the topic of 3D reconstruction techniques.
+* https://journals.plos.org/plosone/
 
