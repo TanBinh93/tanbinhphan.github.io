@@ -11,36 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Image Processing, University of Lorraine, France
+* Ph.D. in Image Processing, University of Lorraine, France.
 * Master in Applied Mathematics , University of Tours, France
 * Bachelor in Mathematics , Ho Chi Minh University of Science, Viet Nam
 
 Work experience
 ======
-* 2024-Now: R&D engineer at Imagine Optic
-* 2021-2024: APostdoctoral researcher at Laboratoire d’Optique Appliqu´ee and at Imagine Optic company
-  * Duties includes: This job is funded by CNRS to work in a collaborative R&D project between Laboratoire
-d’Optique Appliqu´ee and Imagine-Optic company. My job in this project is to develop
+* 04/2024-Now: R&D engineer at Imagine Optic
+* 01/2022-03/2024: Postdoctoral researcher at Laboratoire d'Optique Appliquée and at Imagine Optic company
+  * Duties includes: This job is funded by CNRS to work in a collaborative R&D project between Laboratoire d'Optique Appliquée and Imagine-Optic company. My job in this project is to develop
 algorithms for the processing of X-ray imaging and then a GUI software.
 
-* 2020-2021: Postdoctoral researcher at University of Clinic Wuerzburg, Germany
+* 12/2020-12/2021: Postdoctoral researcher at University of Clinic Wuerzburg, Germany
   * Duties included: This work is a
 collaborative project between University ClinicWuerzburg, Germany and KU Leuven, Belgium.
 The aim of this work is to estimate the motion of the myocardial through 3D echocardiography.
 
-* 2017-2020: Doctoral researcher at University of Lorraine
+* 10/2017-11/2020: Doctoral researcher at University of Lorraine
   * Duties included: The main work focussed on the construction
 of extended and textured 3D surfaces of the pyloric antrum region using only a sequence of
 endoscopic images with a limited field of view.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
