@@ -14,7 +14,7 @@ name                     : &name "Tan-Binh Phan"
 description              : &description "R&D engineer"
 url                      : https://tanbinh93.github.io/tanbinhphan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://tanbinh93.github.io/tanbinhphan.github.io/"
+linkedin         : # https://www.linkedin.com/in/tan-binh-phan-a29a8014a/
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -51,7 +51,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # https://www.linkedin.com/in/tan-binh-phan-a29a8014a/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
