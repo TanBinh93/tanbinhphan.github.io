@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Signal and image processing
-* M.S. applied mathematics
-* B.S. in applied mathematics
+* Ph.D. in Image Processing, University of Lorraine, France
+* Master in Applied Mathematics , University of Tours, France
+* Bachelor in Mathematics , Ho Chi Minh University of Science, Viet Nam
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-Now: R&D engineer at Imagine Optic
+* 2021-2024: APostdoctoral researcher at Laboratoire d’Optique Appliqu´ee and at Imagine Optic company
+  * Duties includes: This job is funded by CNRS to work in a collaborative R&D project between Laboratoire
+d’Optique Appliqu´ee and Imagine-Optic company. My job in this project is to develop
+algorithms for the processing of X-ray imaging and then a GUI software.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2021: Postdoctoral researcher at University of Clinic Wuerzburg, Germany
+  * Duties included: This work is a
+collaborative project between University ClinicWuerzburg, Germany and KU Leuven, Belgium.
+The aim of this work is to estimate the motion of the myocardial through 3D echocardiography.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2020: Doctoral researcher at University of Lorraine
+  * Duties included: The main work focussed on the construction
+of extended and textured 3D surfaces of the pyloric antrum region using only a sequence of
+endoscopic images with a limited field of view.
   
 Skills
 ======
