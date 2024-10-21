@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Tan-Binh Phan / Site Title"
+title                    : "Tan-Binh Phan's page"
 title_separator          : "-"
 name                     : &name "Tan-Binh Phan"
 description              : &description "R&D engineer"
