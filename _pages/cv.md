@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * 04/2024-Now: R&D engineer at Imagine Optic
-* 01/2022-03/2024: Postdoctoral researcher at Laboratoire d'Optique Appliquée and at Imagine Optic company
-  * Duties includes: This job is funded by CNRS to work in a collaborative R&D project between Laboratoire d'Optique Appliquée and Imagine-Optic company. My job in this project is to develop
+* 01/2022-03/2024: Postdoctoral researcher at Laboratoire d'Optique Appliquee and at Imagine Optic company
+  * Duties includes: This job is funded by CNRS to work in a collaborative R&D project between Laboratoire d'Optique Appliquee and Imagine-Optic company. My job in this project is to develop
 algorithms for the processing of X-ray imaging and then a GUI software.
 
 * 12/2020-12/2021: Postdoctoral researcher at University of Clinic Wuerzburg, Germany
