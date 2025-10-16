@@ -35,7 +35,7 @@ endoscopic images with a limited field of view.
 Skills
 ======
 Programming: Python, C++, Matlab  
-Deep Learning: PyTorch, TensorFlow  
+Deep Learning: PyTorch 
 Image/Signal Processing: OpenCV, scikit-image, NumPy, SciPy  
 Tools: Git, Docker, Linux, LaTeX  
 Languages: English (fluent), French (intermediate)
