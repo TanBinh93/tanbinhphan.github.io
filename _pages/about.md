@@ -1,9 +1,3 @@
----
-layout: page
-title: "About"
-permalink: /about/
-author_profile: true
----
 
 Welcome to my personal page!
 I am an R&D engineer specialized in image and signal processing.
