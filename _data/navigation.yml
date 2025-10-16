@@ -25,8 +25,7 @@
     
 #   - title: "Blogs"
 #     url: /markdown/
-
-  main:
+main:
   - title: "About"
     url: /
   - title: "CV"
