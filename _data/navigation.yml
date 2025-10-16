@@ -10,8 +10,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Conferences and talks"
-    url: /talks/    
+  # - title: "Conferences and talks"
+  #   url: /talks/    
 
   # - title: "Projects"
   #   url: /teaching/    
