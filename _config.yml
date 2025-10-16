@@ -38,7 +38,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://tanbinh93.github.io/tanbinhphan.github.io/"
+  github           : "https://tanbinh93.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -340,3 +340,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+# Theme settings
+remote_theme: "academicpages/academicpages.github.io"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-include-cache
+    
