@@ -13,11 +13,11 @@ main:
   - title: "Conferences and talks"
     url: /talks/    
 
-  - title: "Projects"
-    url: /teaching/    
+  # - title: "Projects"
+  #   url: /teaching/    
     
   - title: "CV"
     url: /cv/
     
-  - title: "Blog"
-    url: /markdown/
+  # - title: "Blog"
+  #   url: /markdown/
