@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Image Processing, University of Lorraine, France.
-* Master in Applied Mathematics , University of Tours, France
-* Bachelor in Mathematics , Ho Chi Minh University of Science, Viet Nam
+* 2020: Ph.D. in Image Processing, University of Lorraine, France.
+* 2017: Master in Applied Mathematics , University of Tours, France
+* 2012: Bachelor in Mathematics , Ho Chi Minh University of Science, Viet Nam
 
 Work experience
 ======
