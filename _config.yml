@@ -12,8 +12,8 @@ title                    : "Tan-Binh Phan's page"
 title_separator          : "-"
 name                     : &name "Tan-Binh Phan"
 description              : &description "R&D engineer"
-url                      : https://tanbinh93.github.io/tanbinhphan.github.io/
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://tanbinh93.github.io"
+baseurl                  : "/tanbinhphan.github.io"
 linkedin         : # https://www.linkedin.com/in/tan-binh-phan-a29a8014a/
 
 # Site Author - The following control what appear as part of the author content on the side bar.
