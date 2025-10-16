@@ -34,11 +34,25 @@ endoscopic images with a limited field of view.
   
 Skills
 ======
-* Programming: Python, C++, Matlab  
-* Deep Learning: PyTorch 
-* Image/Signal Processing: OpenCV, scikit-image, NumPy, SciPy  
-* Tools: Git, Docker, Linux, LaTeX  
-* Languages: English (fluent), French (intermediate)
+**Programming & Computing**
+- Python, C++, MATLAB  
+- Parallel and high-performance computing on **CPU & GPU (CUDA)**  
+
+**Computer Vision & Image Processing**
+- 2D/3D image and signal processing  
+- Expertise in **3D reconstruction, stereo vision, structure from motion, Simultaneous localization and mapping**  
+- Libraries: OpenCV, scikit-image, NumPy, SciPy, PyTorch  
+
+**Software Development**
+- Design and implementation of **Graphical User Interfaces (GUI)** for image-processing tools  
+- Experience with **PyQt / Qt**, **Matplotlib**, **Tkinter**, and interactive visualization  
+
+**Tools & Workflow**
+- Git, Docker, Linux, LaTeX  
+- Agile and collaborative R&D development  
+
+**Languages**
+- English (fluent), French (intermediate)
 
 Publications
 ======
