@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: archive
 title: "About"
 #permalink: /
 author_profile: true
@@ -27,5 +27,5 @@ My work bridges academic research and industrial R&D, focusing on **3D reconstru
 - **Languages:** English (fluent), French (intermediate)
 
  ## Contact 
- - Email: xaloduongdai06@gmail.com
+ - **Email: xaloduongdai06@gmail.com
  
