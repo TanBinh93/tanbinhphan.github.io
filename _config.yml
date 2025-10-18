@@ -135,6 +135,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Analytics
 analytics:
