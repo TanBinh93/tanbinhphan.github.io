@@ -5,7 +5,7 @@ title: "About"
 author_profile: true
 ---
 
-I am an **R&D Engineer specialized in image and signal processing**, with strong expertise in **3D optical metrology and computer vision**.  
+My name is Binh PHAN. I am an **R&D Engineer specialized in image and signal processing**, with strong expertise in **computer vision**.  
 My work bridges academic research and industrial R&D, focusing on **3D reconstruction**, **Tomographic reconstruction**,
  **Structure from motion**, and **Simultaneous Localization and Mapping**.
 
@@ -13,7 +13,7 @@ My work bridges academic research and industrial R&D, focusing on **3D reconstru
 
 ## Research Interests
 - 3D Imaging, Optical Flow, X-ray imaging, Tomography 
-- Deep learning and physics-based modeling   
+- Machine learning and physics-based modeling   
 - Algorithm optimization and parallel computing (GPU, CPU)
 
 ---
@@ -27,5 +27,5 @@ My work bridges academic research and industrial R&D, focusing on **3D reconstru
 - **Languages:** English (fluent), French (intermediate)
 
  ## Contact 
- - **Email: xaloduongdai06@gmail.com
+ - **Email**: xaloduongdai06@gmail.com
  
