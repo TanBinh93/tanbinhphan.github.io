@@ -7,17 +7,23 @@
 main:
   - title: "About"
     url: /
-  # - title: "Publications"
-  #   url: /publications/
-
-  # - title: "Conferences and talks"
-  #   url: /talks/    
-
-  # - title: "Projects"
-  #   url: /teaching/    
-    
   - title: "CV"
     url: /cv/
+
+# main:
+#   - title: "About"
+#     url: /
+#   # - title: "Publications"
+#   #   url: /publications/
+
+#   # - title: "Conferences and talks"
+#   #   url: /talks/    
+
+#   # - title: "Projects"
+#   #   url: /teaching/    
+    
+#   - title: "CV"
+#     url: /cv/
     
   # - title: "Blog"
   #   url: /markdown/
