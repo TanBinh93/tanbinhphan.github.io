@@ -29,4 +29,9 @@ author_profile: true
 ---
 
 ## Conference Papers and Talks
+- **Poster presentation:**  
+  *26th International Conference on Image Processing (ICIP)*,  
+  Taipei, Taiwan, September 22–25, 2019.
+
+
 
