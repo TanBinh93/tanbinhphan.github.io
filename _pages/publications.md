@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Journal Publications
+## Publications
 
 - **Phan, T. B.**, et al.  
   *3D surface reconstruction using dense optical flow combined to feature matching: Application to endoscopy.*  
