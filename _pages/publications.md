@@ -8,11 +8,11 @@ author_profile: true
 
 - **Tan-Binh Phan**, Dinh-Hoan Trinh, Dominique Lamarque, Didier Wolf, Christian Daul. 
   *3D surface reconstruction using dense optical flow combined to feature matching: Application to endoscopy.*  
-  HAL (2019). [[Link]](https://hal.science/hal-02271615/)
+  GRETSI (2019). [[Link]](https://hal.science/hal-02271615/)
 
 - **Tan-Binh Phan**, Dinh-Hoan Trinh, Dominique Lamarque, Didier Wolf, Christian Daul.  
   *Dense optical flow for the reconstruction of weakly textured and structured surfaces: Application to endoscopy.*  
-  IEEE (2019). [[Link]](https://ieeexplore.ieee.org/abstract/document/8802948)
+  IEEE ICIP (2019). [[Link]](https://ieeexplore.ieee.org/abstract/document/8802948)
 
 - **Tan Binh Phan**, Dinh Hoan Trinh, Didier Wolf, Christian Daul. 
   *Optical flow-based structure-from-motion for the reconstruction of epithelial surfaces.*  
@@ -24,14 +24,20 @@ author_profile: true
 
 - Ombeline de La Rochefoucauld,...,**Tan-Binh Phan**, et al.  
   *Element differentiation with a Hartmann based X-ray phase imaging system.*  
-  Optical Engineering (2022). [[Link]](https://doi.org/10.1080/10589759.2022.2095383)
+  Nondestructive Testing and Evaluation (2022). [[Link]](https://doi.org/10.1080/10589759.2022.2095383)
 
 ---
 
-## Conference Papers and Talks
+## Conference and Talks
+- **Oral presentation:**
+  *27th GRETSI Conference Francophone Symposium for signal and image processing*,
+  Lille, France, August 26-29, 2019.
 - **Poster presentation:**  
   *26th International Conference on Image Processing (ICIP)*,  
   Taipei, Taiwan, September 22–25, 2019.
+- **Oral presentation:**
+  *16th International Conference on Laser Applications in Life Sciences*,
+  Nancy, France, April 01-02, 2022. 
 
 
 
