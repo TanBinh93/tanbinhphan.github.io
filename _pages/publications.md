@@ -33,7 +33,7 @@ author_profile: true
   *27th GRETSI Conference Francophone Symposium for signal and image processing*,
   Lille, France, August 26-29, 2019.
   
-- **Poster presentation:**  
+- **Poster presentation:**
   *26th International Conference on Image Processing (ICIP)*,  
   Taipei, Taiwan, September 22–25, 2019.
   
