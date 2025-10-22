@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "About"
-#permalink: /
+permalink: /
 author_profile: true
 ---
 
@@ -35,3 +35,4 @@ My work bridges academic research and industrial R&D, focusing on Numerical anal
 ## Contact 
  - **Email**: phantanbinh93@gmail.com
  
+
