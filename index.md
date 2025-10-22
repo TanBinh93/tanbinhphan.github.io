@@ -31,6 +31,7 @@ My work bridges academic research and industrial R&D, focusing on Numerical anal
 - Designed and implemented control interfaces to communicate with hardware components such as cameras and motorized systems.
 
 ---
- ## Contact 
+
+## Contact 
  - **Email**: phantanbinh93@gmail.com
  
