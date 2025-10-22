@@ -14,7 +14,6 @@ My work bridges academic research and industrial R&D, focusing on Numerical anal
 ### Numerical Analysis
 - Experienced in numerical methods for partial differential equations applied to mechanics. Skilled in finite difference and finite element methods.
 - Conducted research on numerical algorithms for algebraic equations and optimization problems.
-- Applied numerical computation techniques to mathematical optimization and parameter estimation tasks.
 - Proficient in basic statistical analysis and data visualization using Python.
 
 ### High-Performance Computing
@@ -32,7 +31,6 @@ My work bridges academic research and industrial R&D, focusing on Numerical anal
 - Designed and implemented control interfaces to communicate with hardware components such as cameras and motorized systems.
 
 ---
-
  ## Contact 
  - **Email**: phantanbinh93@gmail.com
  
