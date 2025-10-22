@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /
+permalink: /projects/
 author_profile: true
 ---
 
 ## 3D reconstruction for endoscopy
 ...
 
-### Tomography reconstruction
+## Tomography reconstruction
 ...
 
 
