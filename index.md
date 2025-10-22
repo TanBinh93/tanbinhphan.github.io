@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About me"
+title: "About"
 permalink: /
 author_profile: true
 ---
