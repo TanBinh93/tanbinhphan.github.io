@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tan-Binh Phan's page"
 title_separator          : "-"
 name                     : &name "Tan-Binh Phan"
-description              : &description "R&D engineer"
+description              : &description "R&D Engineer"
 url                      : "https://tanbinh93.github.io"
 baseurl                  : "/tanbinhphan.github.io"
 linkedin         : # https://www.linkedin.com/in/tan-binh-phan-a29a8014a/
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Tan-Binh Phan"
   pronouns         : # example: "He"  
-  bio              : "R&D engineer in image processing"
+  bio              : "R&D Engineer in Image Processing"
   location         : "Bordeaux"
   employer         : "Imagine Optic"
   uri              : # https://orcid.org/0000-0002-6325-2489
