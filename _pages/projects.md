@@ -26,7 +26,7 @@ scenes using only images acquired from different viewpoints. However, applying t
 This is mainly due to the challenging lighting conditions, specular reflections, and low-texture characteristics of endoscopic images.
 To make the SfM technique applicable to endoscopic data, **we proposed to integrate an Optical Flow method into the SfM framework**, which effectively addresses the problem of textureless image regions.
 
-A complete pipeline for 3D reconstruction in our project includes the steps: Pre-processing -> **SfM** -> Multi-view stereo -> Meshed surface computation and refinement -> Multiple view mesh texturing.
+A complete pipeline for 3D reconstruction in our project includes the steps: Pre-processing -> **Proposed SfM method** -> Multi-view stereo -> Meshed surface computation and refinement -> Multiple view mesh texturing.
 Several scientific papers were published in this project, you can find them in the links below.
 - **Tan-Binh Phan**, Dinh-Hoan Trinh, Dominique Lamarque, Didier Wolf, Christian Daul. 
   *3D surface reconstruction using dense optical flow combined to feature matching: Application to endoscopy.*  
@@ -51,6 +51,9 @@ the remission of a tissue after surgery for instance. For the tested medical app
 3D shapes (in accordance with the anatomy of the organ), without discontinuities of textures or structures, as well as with an acceptable resolution regardless of the
 location observed on the surface. Textured 3D images of the internal organ wall surfaces also support the exchange of information between physicians of different
 specialties. The proposed method was designed for endoscopic scenes. However, they are also applicable to other medical scenes and non-medical scenes which are with more or less textures (such scenes occur in dermatology for instance). 
+
+**Domain**: Computer Vision, Medical Imaging, Optical Flow, Structure-from-Motion (SfM), Meshed computation, Texture reconstruction. 
+**Tech Stack:** Matlab, C++, OpenCV, CUDA.
 
 ## Project 2. Non-Rigid Structure from Motion for the esophagus
 ...
