@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## 3D reconstruction for endoscopy
+## 3D reconstruction for endoscopy, dermatology
 - **Tan-Binh Phan**, Dinh-Hoan Trinh, Dominique Lamarque, Didier Wolf, Christian Daul. 
   *3D surface reconstruction using dense optical flow combined to feature matching: Application to endoscopy.*  
   GRETSI (2019). [[Link]](https://hal.science/hal-02271615/)
