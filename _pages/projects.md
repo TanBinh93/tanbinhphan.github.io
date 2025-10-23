@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Project 1. 3D reconstruction for endoscopy, dermatology 
-**Domain**: Computer Vision, Medical Imaging, Optical Flow, Structure-from-Motion (SfM), Meshed computation, Texture reconstruction. 
+**Domain**: Computer Vision, Medical Imaging, Optical Flow, Structure-from-Motion (SfM), Meshed generation, Texture reconstruction. 
 
 **Tech Stack:** Matlab, C++, OpenCV, CUDA.
 
@@ -60,9 +60,16 @@ specialties. The proposed method was designed for endoscopic scenes. However, th
 ## Project 2. Non-Rigid Structure from Motion for the esophagus
 ...
 
-## Project 3. 3D echocardiography
+## Project 3. 3D Echocardiography
+**Domain**: Motion Estimation, 3D Echocardiography.
+
+**Tech Stack**: MATLAB, Python (PyQt / Tkinter), DICOM, Image Segmentation, Optical Flow.
+
 This work proposed a 3D pipeline for motion estimation of myocardial which consists of four sequential chains. Starting with the pre-processing step, the Raw-Dicom/Dicom (Digital imaging and communications in medicine) les are processed to the correct format files which are used as the input of the second step, that is the segmentation of myocardial.
-The endocardium and epicardium delineated in the segmentation are used for the tracking process which computed the movement of the myocardium in each frame. The aim of the final step is to estimate the velocity fields and give a framework to evaluate the motion of the myocardium.
+The endocardium and epicardium delineated in the segmentation are used for the tracking process which computed the movement of the myocardium in each frame. The final step aims to estimate the velocity fields and give a framework to evaluate the motion of the myocardium.
+
+We carried out extensive experiments and achieved promising results that confirmed the validity of the proposed approach.
+I also developed a Graphical User Interface (GUI) to facilitate data management, visualization, and computation of myocardial motion, making the pipeline accessible and user-friendly for research purposes.
 
 ## Project 4. Tomography reconstruction
 **Domain**: Computational Imaging, X-ray Tomography, Inverse Problems, High-Performance Computing.
@@ -75,7 +82,7 @@ For the tomographic reconstruction, there are both analytical and iterative meth
 I used open-source computational libraries such as ASTRA and TIGRE toolboxes for GPU-accelerated reconstruction, combined with custom Python routines for data preprocessing, regularization, and 3D visualization.
 The implementation was optimized for parallel computation (CUDA) to achieve fast reconstruction performance on large-scale datasets.
 
-This work contributes to advancing quantitative X-ray imaging, making them suitable for industrial metrology, biological imaging, and advanced material characterization. In the field of X-ray image processing, we have the following publication
+This work contributes to advancing quantitative X-ray imaging, making it suitable for industrial metrology, biological imaging, and advanced material characterization. In the field of X-ray image processing, we have the following publication
 
 - Ombeline de La Rochefoucauld,...,**Tan-Binh Phan**, et al.  
   *Element differentiation with a Hartmann based X-ray phase imaging system.*  
