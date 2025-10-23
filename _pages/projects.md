@@ -24,7 +24,7 @@ the camera trajectory and a 3D point cloud located on the surface to be recovere
 SfM is a widely employed technique that is able to reconstruct a great variety of
 scenes using only images acquired from different viewpoints. However, applying this technique to endoscopic images in general is difficult, and in gastroscopic images it is a big challenge.
 This is mainly due to the challenging lighting conditions, specular reflections, and low-texture characteristics of endoscopic images.
-To make the SfM technique applicable to endoscopic data, we proposed to integrate an Optical Flow method into the SfM framework, which effectively addresses the problem of textureless image regions.
+To make the SfM technique applicable to endoscopic data, **we proposed to integrate an Optical Flow method into the SfM framework**, which effectively addresses the problem of textureless image regions.
 
 A complete pipeline for 3D reconstruction in our project includes the steps: Pre-processing -> **SfM** -> Multi-view stereo -> Meshed surface computation and refinement -> Multiple view mesh texturing.
 Several scientific papers were published in this project, you can find them in the links below.
@@ -43,13 +43,14 @@ Several scientific papers were published in this project, you can find them in t
 - Rafael Bayareh Mancilla, **Tan-Binh Phan**, et al.  
   *Anatomical 3D modeling using IR sensors and radiometric processing based on structure from motion: Towards a tool for the diabetic foot diagnosis.*  
   Sensors (2021). [[Link]](https://www.mdpi.com/1424-8220/21/11/3918)
+  
 **Application**: From the medical point of view, the proposed SfM methods can reconstruct surfaces acquired for various endoscopic scenes and imaging modalities. The extended
 FOV images facilitate the detection of abnormal regions (e.g., with polyps) or inflammations (e.g., inflammations around the pyloric antrum region of the stomach).
 Besides that, the surfaces of the same region reconstructed by the proposed SfM algorithms for two or more examinations help to diagnose a lesion evolution or to assess
 the remission of a tissue after surgery for instance. For the tested medical applications, the proposed 3D reconstruction pipeline led systematically to consistent
 3D shapes (in accordance with the anatomy of the organ), without discontinuities of textures or structures, as well as with an acceptable resolution regardless of the
 location observed on the surface. Textured 3D images of the internal organ wall surfaces also support the exchange of information between physicians of different
-specialties.  
+specialties. The proposed method was designed for endoscopic scenes. However, they are also applicable to other medical scenes and non-medical scenes which are with more or less textures (such scenes occur in dermatology for instance). 
 
 ## Project 2. Non-Rigid Structure from Motion for the esophagus
 ...
