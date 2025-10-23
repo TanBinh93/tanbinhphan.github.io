@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## 3D reconstruction for endoscopy, dermatology
+## 3D reconstruction for endoscopy, dermatology (2017-2021)
 The 3D reconstruction is the process of recovering the shape or structure of the
 surfaces that are seen in images. This research topic, which has occupied researchers
 for decades, is still topical, particularly because of the numerous application fields
