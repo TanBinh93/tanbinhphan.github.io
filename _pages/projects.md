@@ -22,10 +22,10 @@ author_profile: true
   *Anatomical 3D modeling using IR sensors and radiometric processing based on structure from motion: Towards a tool for the diabetic foot diagnosis.*  
   Sensors (2021). [[Link]](https://www.mdpi.com/1424-8220/21/11/3918)
 
-
 ## Non-Rigid Structure from Motion for the esophagus
 ...
-##  3D echocardiography
+
+## 3D echocardiography
 This work proposed a 3D pipeline for motion estimation of myocardial which consists of four sequential chains. Starting with the pre-processing step, the Raw-Dicom/Dicom (Digital imaging and communications in medicine) les are processed to the correct format files which are used as the input of the second step, that is the segmentation of myocardial.
 The endocardium and epicardium delineated in the segmentation are used for the tracking process which computed the movement of the myocardium in each frame. The aim of the final step is to estimate the velocity fields and give a framework to evaluate the motion of the myocardium.
 
