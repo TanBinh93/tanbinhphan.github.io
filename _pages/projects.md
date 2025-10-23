@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## 3D reconstruction for endoscopy
+
+## Non-Rigid Structure from Motion for the esophagus
 ...
 ##  3D echocardiography
 This work proposed a 3D pipeline for motion estimation of myocardial which consists of four sequential chains. Starting with the pre-processing step, the Raw-Dicom/Dicom (Digital imaging and communications in medicine) les are processed to the correct format files which are used as the input of the second step, that is the segmentation of myocardial.
