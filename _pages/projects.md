@@ -22,8 +22,8 @@ point correspondences between images. The correspondence of homologous points is
 usually given in the form of point-tracks which are used to simultaneously estimate
 the camera trajectory and a 3D point cloud located on the surface to be recovered.
 SfM is a widely employed technique that is able to reconstruct a great variety of
-scenes using only images acquired from different viewpoints. 
-### Generic SfM-based surface construction pipeline
+scenes using only images acquired from different viewpoints. However, applying this technique to medical imaging in general is difficult, and in endoscopic images it is a big challenge.
+
 A complete pipeline for 3D reconstruction in our project includes the steps: Pre-processing -> SfM -> Multi-view stereo -> Meshed surface computation and refinement -> Multiple view mesh texturing.
 Several scientific papers were published in this project, you can find them in the links below.
 - **Tan-Binh Phan**, Dinh-Hoan Trinh, Dominique Lamarque, Didier Wolf, Christian Daul. 
