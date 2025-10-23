@@ -65,6 +65,18 @@ This work proposed a 3D pipeline for motion estimation of myocardial which consi
 The endocardium and epicardium delineated in the segmentation are used for the tracking process which computed the movement of the myocardium in each frame. The aim of the final step is to estimate the velocity fields and give a framework to evaluate the motion of the myocardium.
 
 ## Project 4. Tomography reconstruction
+**Domain**: Computational Imaging, X-ray Tomography, Inverse Problems, High-Performance Computing.
+
+**Tech Stack**: Python, C++, ASTRA Toolbox, TIGRE Toolbox, CUDA.
+
+X-ray tomography plays a key role across multiple domains — from medical imaging and industrial inspection to materials science and cultural heritage preservation. It enables non-destructive visualization of internal structures by reconstructing 3D volumes from a series of 2D X-ray projections.
+
+For the tomographic reconstruction, there are both analytical and iterative methods, including Filtered Back Projection (FBP), Algebraic Reconstruction Technique (ART), and Simultaneous Iterative Reconstruction Technique (SIRT), depending on data quality and acquisition geometry.
+I used open-source computational libraries such as ASTRA and TIGRE toolboxes for GPU-accelerated reconstruction, combined with custom Python routines for data preprocessing, regularization, and 3D visualization.
+The implementation was optimized for parallel computation (CUDA) to achieve fast reconstruction performance on large-scale datasets.
+
+This work contributes to advancing quantitative X-ray imaging, making them suitable for industrial metrology, biological imaging, and advanced material characterization. In the field of X-ray image processing, we have the following publication
+
 - Ombeline de La Rochefoucauld,...,**Tan-Binh Phan**, et al.  
   *Element differentiation with a Hartmann based X-ray phase imaging system.*  
   Nondestructive Testing and Evaluation (2022). [[Link]](https://doi.org/10.1080/10589759.2022.2095383)
