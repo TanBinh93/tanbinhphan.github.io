@@ -58,7 +58,14 @@ location observed on the surface. Textured 3D images of the internal organ wall 
 specialties. The proposed method was designed for endoscopic scenes. However, they are also applicable to other medical scenes and non-medical scenes which are with more or less textures (such scenes occur in dermatology for instance). 
 
 ## Project 2. Non-Rigid Structure from Motion for the esophagus
-...
+**Domain**: Medical Imaging, 3D Reconstruction, Computer Vision.
+
+**Tech Stack**: Python, C++, OpenCV.
+
+This research project was conducted during my PhD, focusing on applying Non-Rigid Structure from Motion (NRSfM) techniques to medical endoscopic images of the esophagus.
+I closely followed and studied state-of-the-art approaches from leading research groups such as Adrien Bartoli (https://encov.ip.uca.fr/ab/) and Suryansh Kumar (https://suryanshkumar.github.io/Non-Rigid-Structure-from-Motion/).
+Through this work, I gained a deep understanding of NRSfM principles and challenges in reconstructing deformable surfaces under complex imaging conditions.
+Although this study did not lead to a publication, it resulted in promising initial results on 3D reconstruction of the esophagus, and provided me with a comprehensive understanding of NRSfM techniques for medical imaging applications.
 
 ## Project 3. 3D Echocardiography
 **Domain**: Motion Estimation, 3D Echocardiography.
