@@ -6,6 +6,19 @@ author_profile: true
 ---
 
 ## 3D reconstruction for endoscopy, dermatology
+The 3D reconstruction is the process of recovering the shape or structure of the
+surfaces that are seen in images. This research topic, which has occupied researchers
+for decades, is still topical, particularly because of the numerous application fields
+of 3D scene construction: computer aided geometric design (CAGD), computer
+graphics, computer animation, computer vision, medical imaging, computational
+science, virtual reality, digital media, etc. In this project, We used the Structure from Motion technique (SfM).
+SfM methods aim to recover 3D structures of a stationary (non-deformable) surface using
+a set of 2D images. SfM methods require the knowledge of numerous and accurate
+point correspondences between images. The correspondence of homologous points is
+usually given in the form of point-tracks which are used to simultaneously estimate
+the camera trajectory and a 3D point cloud located on the surface to be recovered.
+SfM is a widely employed technique that is able to reconstruct a great variety of
+scenes using only images acquired from different viewpoints
 - **Tan-Binh Phan**, Dinh-Hoan Trinh, Dominique Lamarque, Didier Wolf, Christian Daul. 
   *3D surface reconstruction using dense optical flow combined to feature matching: Application to endoscopy.*  
   GRETSI (2019). [[Link]](https://hal.science/hal-02271615/)
