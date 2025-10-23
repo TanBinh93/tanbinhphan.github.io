@@ -7,7 +7,9 @@ author_profile: true
 
 ## Project 1. 3D reconstruction for endoscopy, dermatology 
 **Domain**: Computer Vision, Medical Imaging, Optical Flow, Structure-from-Motion (SfM), Meshed computation, Texture reconstruction. 
+
 **Tech Stack:** Matlab, C++, OpenCV, CUDA.
+
 The 3D reconstruction is the process of recovering the shape or structure of the
 surfaces that are seen in images. This research topic, which has occupied researchers
 for decades, is still topical, particularly because of the numerous application fields
@@ -30,7 +32,7 @@ To make the SfM technique applicable to endoscopic data, **we proposed to integr
 
 A complete pipeline for 3D reconstruction in our project includes the steps: Pre-processing -> **Proposed SfM method** -> Multi-view stereo -> Meshed surface computation and refinement -> Multiple view mesh texturing.
 
-**Results:** several scientific papers were published in this project, you can find them in the links below.
+**Publications:** several scientific papers were published in this project, you can find them in the links below.
 - **Tan-Binh Phan**, Dinh-Hoan Trinh, Dominique Lamarque, Didier Wolf, Christian Daul. 
   *3D surface reconstruction using dense optical flow combined to feature matching: Application to endoscopy.*  
   GRETSI (2019). [[Link]](https://hal.science/hal-02271615/)
