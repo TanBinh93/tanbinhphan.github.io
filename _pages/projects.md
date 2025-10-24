@@ -58,7 +58,7 @@ location observed on the surface. Textured 3D images of the internal organ wall 
 specialties. The proposed method was designed for endoscopic scenes. However, they are also applicable to other medical scenes and non-medical scenes which are with more or less textures (such scenes occur in dermatology for instance). 
 
 The links below are a resource where we have compiled materials from books, articles, and tutorials that you can use to research 3D image reconstruction.
-[[Link]] https://github.com/openMVG/awesome_3DReconstruction_list
+https://github.com/openMVG/awesome_3DReconstruction_list
 
 ## Project 2. Non-Rigid Structure from Motion for the esophagus
 **Domain**: Medical Imaging, 3D Reconstruction, Computer Vision.
