@@ -92,7 +92,9 @@ For the tomographic reconstruction, there are both analytical and iterative meth
 I used open-source computational libraries such as ASTRA and TIGRE toolboxes for GPU-accelerated reconstruction, combined with custom Python routines for data preprocessing, regularization, and 3D visualization.
 The implementation was optimized for parallel computation (CUDA) to achieve fast reconstruction performance on large-scale datasets.
 
-This work contributes to advancing quantitative X-ray imaging, making it suitable for industrial metrology, biological imaging, and advanced material characterization. In the field of X-ray image processing, we have the following publication
+This work contributes to advancing quantitative X-ray imaging, making it suitable for industrial metrology, biological imaging, and advanced material characterization. We have published some results of 3D Tomography reconstruction for certain specimens on our Linkedln page at https://www.linkedin.com/company/ixmagine/posts/?feedView=all.
+
+In the field of X-ray image processing, we have the following publication
 
 - Ombeline de La Rochefoucauld,...,**Tan-Binh Phan**, et al.  
   *Element differentiation with a Hartmann based X-ray phase imaging system.*  
