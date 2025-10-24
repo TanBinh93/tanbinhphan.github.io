@@ -36,7 +36,7 @@ Skills
 ======
 **Programming & Computing**
 - Python, C++, MATLAB  
-- Parallel and high-performance computing on **CPU & GPU (CUDA)**  
+- Parallel and high-performance computing on CPU & GPU (CUDA)
 
 **Computer Vision & Image Processing**
 - 2D/3D image and signal processing  
@@ -44,8 +44,8 @@ Skills
 - Libraries: OpenCV, scikit-image, NumPy, SciPy, PyTorch  
 
 **Software Development**
-- Design and implementation of **Graphical User Interfaces (GUI)** for image-processing tools  
-- Experience with **PyQt / Qt**, **Matplotlib**, **Tkinter**, and interactive visualization  
+- Design and implementation of Graphical User Interfaces (GUI) for image-processing tools  
+- Experience with PyQt / Qt, Matplotlib, Tkinter, and interactive visualization  
 
 **Tools & Workflow**
 - Git, Docker, Linux, LaTeX  
