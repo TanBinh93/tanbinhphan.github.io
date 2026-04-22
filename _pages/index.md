@@ -5,8 +5,8 @@ permalink: /
 author_profile: true
 ---
 
-My name is Binh PHAN. I am an **R&D Engineer specialized in image and signal processing**.  
-My work bridges academic research and industrial R&D, focusing on Numerical analysis, High-Performance Computing, Computer Vision and Image Processing.
+My name is Binh PHAN. I am an **R&D Engineer specialized in scientific computing**.  
+My work bridges academic research and industrial R&D, focusing on Numerical analysis, High-Performance Computing, Computer Vision and Artificial Intelligence.
 
 ---
 
